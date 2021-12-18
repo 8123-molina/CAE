@@ -4,7 +4,7 @@ import {Container, TextPrymari} from '../../styles/styles'
 export default () => {
     return(
         <Container>
-            <TextPrymari>Login</TextPrymari>
+            <TextPrymari>Preload</TextPrymari>
 
         </Container>
     )
